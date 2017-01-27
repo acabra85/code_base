@@ -1,0 +1,9 @@
+[user]
+	email = cabra.agustin@gmail.com
+	name = Agustin Cabra
+[merge]
+	tool = meld
+[mergetool "meld"]
+	path = c:/Progra~2/Meld/Meld.exe
+[push]
+	default = matching
